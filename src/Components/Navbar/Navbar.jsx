@@ -37,9 +37,11 @@ const Navbar = () => {
               Search
             </Link>
           </li>
-          <li className="navbar__item__center">
+            <div className="btn__decoration">
+          <li className="navbar__item__center animate__btn">
             <Link to="/experience">+</Link>
           </li>
+            </div>
           <li className="navbar__item">
             <Link to="/tours">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
