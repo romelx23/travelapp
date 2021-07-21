@@ -1,0 +1,19 @@
+.container__navbar__movil{
+    display: flex;
+    width: 90vw;
+    justify-content: space-between;
+    padding: 10px 15px;
+}
+
+.container__navbar__movil img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    box-shadow: 2px 10px 18px rgba(78, 78, 78, 0.561);
+}
+
+.container__navbar__movil .notification{
+    width: 40px;
+    border-radius: 50%;
+    box-shadow: 2px 10px 18px rgba(78, 78, 78, 0.561);
+}
