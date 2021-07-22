@@ -1,0 +1,25 @@
+.container__exprience{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.container__exprience .content__experience{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.container__exprience .content__experience img{
+    width: 200px;
+}
+
+.container__exprience .content__experience input{
+    padding: 10px;
+}
+
+.container__exprience .content__experience textarea{
+    resize: vertical;
+    height: 100px;
+    padding: 10px;
+}

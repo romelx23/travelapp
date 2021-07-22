@@ -1,0 +1,17 @@
+.container__save{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.container__save H2{
+    padding: 10px 0;
+}
+
+.content__cards{
+    width: 90vw;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    gap: 10px;
+}

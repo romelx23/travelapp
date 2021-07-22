@@ -1,3 +1,11 @@
+.container__search{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 20px;
+}
 .content__cards_search{
     width: 90vw;
     /* min-height: 100vh; */
